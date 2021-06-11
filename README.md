@@ -190,7 +190,7 @@ If you would like to read more of my Searchlight reviews you can find them here 
 
 ## :octocat: GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmmiddour&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Joanne%20Middour's%20Most%20Used%20Languages&card_width=320px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=jmmiddour&hide=stars&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmmiddour&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Joanne's%20Top%20Languages&card_width=270px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=jmmiddour&hide=stars&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True&custom_title=Joanne's%20GitHub%20Stats) 
 
 ![](https://komarev.com/ghpvc/?username=jmmiddour&color=7957d5&style=flat-square) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/jmmiddour?color=7957d5&logo=github&style=flat-square)
 
