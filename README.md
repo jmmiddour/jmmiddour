@@ -170,13 +170,13 @@
 > "Joanne is an amazing person to have on a team. She is always willing to reach out and help anybody in need. She is a great motivator and supporter and it is a privilege to work with her."  
 > --- Ravi Tennekone
 
-> "she is hardworking, resourceful, and curious. Not only she has a growth mind set, but she has an incredible thirst for knowledge."  
+> "... she is hardworking, resourceful, and curious. Not only she has a growth mind set, but she has an incredible thirst for knowledge..."  
 > --- Jose Urena
 
-> "Joanne is the most helpful teammate I have ever had in my 20 years of working experience - hands down. She is very quick to find a solution to even the most troublesome challenges, and treats her teammates with respect. She will be an asset to the company she ends up with."  
+> "Joanne is the most helpful teammate I have ever had in my 20 years of working experience - hands down. She is very quick to find a solution to even the most troublesome challenges, and treats her teammates with respect..."  
 > --- Jeremy Jewett
 
-> "She would be a great leader in any team and has been so great in helping out peers who need help."  
+> "... She would be a great leader in any team and has been so great in helping out peers who need help..."  
 > --- Elizabeth Sanchez
 
 If you would like to read more of my Searchlight reviews you can find them here 👉 <a href="https://drive.google.com/file/d/1B2MdM_SgrKWlrAGUfTCSS0bf6F_ofwNZ/view?usp=sharing">
