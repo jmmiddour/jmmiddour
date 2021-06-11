@@ -29,7 +29,7 @@
   
 <img align='right' src='https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/cat_banging_on_a_keyboard.gif' width='250"'>
 
-I have spent the last 13 years as a stay at home mom, but I still did some work on the side while taking care of my children and the household. I owned my own business where I made and sold handmade jewelry. I self-taught myself to build and maintain the website for my business and ran all asspects of the business on my own. I also had a store front at a local flea market on the weekends. I did not have much help because my husband was away from home a lot, so I learned time-management skills and how to mulit-task well.
+I have spent the last 13 years as a stay at home mom, but I still did some work on the side while taking care of my children and the household. I owned my own business where I made and sold handmade jewelry. I self-taught myself to build and maintain the website for my business and ran all aspects of the business on my own. I also had a store front at a local flea market on the weekends. I did not have much help because my husband was away from home a lot, so I learned time-management skills and how to mulit-task well.
 
 ## ⚡ Languages and Tools
 
