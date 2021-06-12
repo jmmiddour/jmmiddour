@@ -23,13 +23,13 @@
   </a>
 </h3>
 
-## 💬 A Little About Me
+## 💬 A Little About Me 💬
 
   I am finishing up my Data Science Course at [Lambda School](https://lambdaschool.com/). It has been just over 1 year since I started and I can see the finish line. My dream job is to work as a Data Engineer at a company that helps to improve the lives of others. I love solving problems, working with data, and coding. 
   
 <img align='right' src='https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/cat_banging_on_a_keyboard.gif' width='150"'>I have spent the last 13 years as a stay at home mom, but I still did some work on the side while taking care of my children and the household. I owned my own business where I made and sold handmade jewelry. I self-taught myself to build and maintain the website for my business and ran all aspects of the business on my own. I also had a store front at a local flea market on the weekends. I did not have much help because my husband was away from home a lot, so I learned time-management skills and how to mulit-task well.
 
-## ⚡ Languages and Tools
+## 💻 Languages and Tools 💻
 
 <table>
   <tbody>
@@ -152,7 +152,7 @@
 
 
 
-## 🌱 Soft Skils
+## 🌱 Soft Skils 🌱
 
 <ul>
 	✔️ Have a neverending thirst for knowledge and enjoy sharing my knowlege with others<br>
@@ -162,7 +162,7 @@
 	✔️ Team player, I enjoy working with a team, but can work independently also<br>
 </ul>	  
 
-## 👯 Just a few things my peers have said about me:
+## 👯 Just a few things my peers have said about me 👯
 
 > "Joanne is a skilled programmer and can assist others in a group and/or team atomsphere with a positive attitude."  
 > --- Jeffrey Ascuncion
@@ -185,8 +185,15 @@ If you would like to read more of my Searchlight reviews you can find them here 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or you can stop by my <a href="https://www.linkedin.com/in/joanne-middour/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a> profile and read more recommendations there.
+  
+## 📚 Things I am Currently Learning 📚
 
-## :octocat: GitHub Stats
+- ![](https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/AWS_emoji.jpg) AWS: Studying for the Cloud Practitioner Certification ![](https://raw.githubusercontent.com/jmmiddour/jmmiddour.github.io/master/assets/img/posts/AWS_CCP.jpg)
+- Taking some Advance Python 🐍 Courses
+- Finishing my final project for my CS50X Certification 
+- Taking additional course to further my knowledge in ML, AI, and Data Engineering
+
+## :octocat: GitHub Stats :octocat:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmmiddour&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Joanne's%20Top%20Languages&card_width=270px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=jmmiddour&hide=stars&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True&custom_title=Joanne's%20GitHub%20Stats) 
 
